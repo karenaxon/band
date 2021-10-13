@@ -1,0 +1,14 @@
+.side-bar {
+    float: right;
+    background-color: purple;
+    height: 100%;
+}
+
+.main{
+  float: left;
+  background-color: aqua;
+}
+
+div img {
+    float: center;
+}
