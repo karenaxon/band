@@ -7,8 +7,14 @@
 .main{
   float: left;
   background-color: aqua;
+  text-align: center;
 }
 
 div img {
     float: center;
+}
+
+.second-bar {
+    float: left;
+    float: right;
 }
