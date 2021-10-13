@@ -1,7 +1,9 @@
 .side-bar {
     float: right;
-    background-color: purple;
-    height: 100%;
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: orange
 }
 
 .main{
@@ -10,11 +12,12 @@
   text-align: center;
 }
 
-div img {
-    float: center;
-}
-
 .second-bar {
     float: left;
     float: right;
+    background-color: purple;
+}
+
+div.second-bar img{
+    padding: 100px;
 }
